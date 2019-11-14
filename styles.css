@@ -1,0 +1,439 @@
+a {
+	width: 150px;
+	height: 50px;
+	color: white;
+	background-color: black;
+
+
+}
+
+a:hover {
+	width: 150px;
+	height: 50px;
+	color: white;
+	background-color: #8d57a5;
+
+
+}
+
+#logo {
+
+	width: 120px;
+	height: 120px;
+	float: left;
+
+}
+
+#active {
+	background-color: #8D57A5;
+
+}
+
+.header {
+	width: 100%;
+	height: 125px;
+	background-color: #8D57A5;
+
+}
+
+
+
+.links {
+	width: 100%;
+	height: 50px;
+	background-color: black;
+
+}
+
+.links a {
+	float: right;
+	width: 100px;
+	height: 25px;
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	padding: 10px;
+	margin-right: 5px;
+	margin-left: 5px;
+
+}
+
+.links a:hover {
+	float: right;
+	width: 100px;
+	height: 25px;
+	background-color: #8D57A5;
+	color: white;
+	text-decoration: none;
+	padding: 10px;
+
+}
+
+#footer {
+	width: 100%;
+	height: 100px;
+	background-color: grey;
+	font-family: sans-serif;
+
+}
+
+#title {
+
+	text-align: center;
+	font-size: 60px;
+	font-family: sans-serif;
+	font-style: bold;
+	color: black;
+	float: center;
+
+}
+
+#store {
+	text-align: center;
+	background-color: black;
+	color: white;
+	font-size: 150px;
+
+}
+
+#store:hover {
+	background-color: #8d57a5;
+
+}
+
+#page-container {
+	position: relative;
+	min-height: 100vh;
+
+}
+
+#content-wrap {
+	padding-bottom: 7.5rem;
+	/* Footer height */
+
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 7.5rem;
+	/* Footer height */
+	background-color: #121212;
+	color: white;
+	font-family: sans-serif;
+}
+
+.vertical {
+	border-left: 1px solid grey;
+	height: 7.5rem;
+	position: absolute;
+	left: 16%;
+	font-family: sans-serif;
+
+}
+
+.verticalaa {
+	border-left: 1px solid grey;
+	height: .1rem;
+	position: absolute;
+	left: 16%;
+	font-family: sans-serif;
+
+}
+.vertical1 {
+	border-left: 1px solid grey;
+	height: .1rem;
+	position: absolute;
+	left: 16%;
+	font-family: sans-serif;
+
+}
+
+#yourText {
+	margin-left: 40%;
+	font-style: bold;
+	font-family: sans-serif;
+
+}
+
+
+#yourText2 a {
+	margin-left: 7px;
+	margin-top: 10p;
+	background-color: #121212;
+	color: white;
+	font-family: sans-serif;
+
+}
+
+#yourText2 {
+	margin-left: 7px;
+	background-color: #121212;
+	color: white;
+	font-family: sans-serif;
+
+}
+
+#yourText2:hover {
+	margin-left: 7px;
+	background-color: #8d57a5;
+	color: white;
+	font-family: sans-serif;
+}
+
+#yourText3 a {
+	margin-left: 190px;
+	background-color: #121212;
+	color: white;
+	font-family: sans-serif;
+
+}
+
+#yourText3 {
+	margin-left: 190px;
+	background-color: #121212;
+	color: white;
+	font-family: sans-serif;
+
+}
+
+#yourText3:hover {
+	margin-left: 190px;
+	background-color: #8d57a5;
+	color: white;
+	font-family: sans-serif;
+}
+
+#yourText4 a {
+	margin-left: 128px;
+	background-color: #121212;
+	color: white;
+	font-family: sans-serif;
+
+}
+
+#yourText4 {
+	margin-left: 128px;
+	background-color: #121212;
+	color: white;
+	font-family: sans-serif;
+
+}
+
+#yourText4:hover {
+	margin-left: 128px;
+	background-color: #8d57a5;
+	color: white;
+	font-family: sans-serif;
+}
+#yourText5 {
+	margin-left: 400px;
+	background-color: #121212;
+	color: white;
+	font-family: sans-serif;
+
+}
+#yourimg {
+	margin-left: 200px;
+	background-color: #121212;
+	color: white;
+	font-family: sans-serif;
+	float: right;
+	
+}
+#yourimg:hover {
+	margin-left: 200px;
+	background-color: #121212;
+	color: white;
+	font-family: sans-serif;
+
+	
+}
+#img123{
+	float:right;
+}
+
+
+#active1 {
+	background-color: #8D57A5;
+	margin-left: 128px;
+	color: white;
+	font-family: sans-serif;
+}
+
+#active2 {
+	background-color: #8D57A5;
+	margin-left: 190px;
+	color: white;
+	font-family: sans-serif;
+}
+
+
+#break {
+	color: #121212;
+}
+
+.vertical1 {
+	border-left: 1px solid grey;
+	height: 7.5rem;
+	position: absolute;
+	left: 40%;
+	bottom: 0%
+}
+
+#team img {}
+
+.playerblock {
+	width: 99%;
+	border: 1px solid gray;
+	padding: 5px;
+	background-color: #121212;
+	font-style: bold;
+	font-size: 20px;
+	text-align: top;
+	color: white;
+	font-family: sans-serif;
+	image-orientation: left;
+
+}
+
+.playerblock img {
+	width: 165.19px;
+	height: 165.19px;
+	border: 1px solid gray;
+	padding: 10px;
+	margin: 20px;
+}
+
+#name {
+	float: right;
+	color: white;
+}
+
+.role {
+	color: #8D57A5;
+	font-size: 20px;
+	font-family: sans-serif;
+	font-style: bold;
+	width: 10%;
+	border: 1px solid gray;
+	padding: 5px;
+	background-color: #121212;
+	font-style: bold;
+	font-size: 20px;
+	font-family: sans-serif;
+	margin-left: 45px;
+
+
+}
+
+.player {
+	color: white;
+	font-size: 20px;
+	font-family: sans-serif;
+	font-style: bold;
+	float: right;
+}
+
+#RivalTeam {
+	color: white;
+	font-style: bold;
+	font-family: sans-serif;
+
+}
+
+#lineup img {
+	width: 65.19px;
+	height: 65.19px;
+	border: 1px solid gray;
+	padding: 10px;
+	margin: 10px;
+	float: right;
+	float: top;
+}
+
+.first-box {
+	width: 600px;
+	float: left;
+	background: #121212;
+	height: 175px;
+	color: white;
+}
+
+.first-box img {
+	width: 65px;
+	float: left;
+	background: #121212;
+	height: 65px;
+	color: white;
+}
+
+.first-box h6 {
+	color: #8D57A5;
+	margin-left: 66px;
+}
+.first-box h5 {
+	color: white;
+	margin-left: 10px;
+}
+
+.second-box {
+	width: 600px;
+	float: right;
+	background: #121212;
+	height: 175px;
+	color: white;
+
+}
+
+.second-box h6 {
+	color: #8D57A5;
+	margin-left: 66px;
+}
+
+.second-box h5 {
+	color: white;
+	margin-left: 10px;
+}
+
+.second-box img {
+	width: 65px;
+	float: left;
+	background: #121212;
+	height: 65px;
+	color: white;
+}
+
+#info {
+	color: white;
+	font-family: serif;
+	float: center;
+
+}
+
+#about {
+	color: white;
+	font-size: 50px;
+	float: top, center;
+
+}
+#table {
+	color:white;
+	
+}
+
+#total{
+	color:white;
+	font-family: serif;
+	margin-left: 10px;
+	border-color:purple;
+}
+#CR{
+	color:white;
+	font-size:12px;
+	display: block;
+}
+
+
+}
