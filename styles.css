@@ -387,24 +387,30 @@
 .lilist:hover {
 	text-decoration: underline;
 }
-img.homeimg {
+.homeimg {
    -webkit-filter: grayscale(100%);
    -moz-filter: grayscale(100%);
    filter: grayscale(100%);
    transition: all 0.5s ease;
 	width:400px;
 	height:400px;
+	color:white;
  }
 
- img.homeimg:hover {
+ .homeimg:hover {
    -webkit-filter: grayscale(0%);
    -moz-filter: grayscale(0%);
    filter: grayscale(0%);
 	 width:400px;
 	height:400px;
+	 color:black;
  }
-
-
+.img2{
+	color:transparent;
+}
+.img2:hover{
+	color:black;
+}
 
 
 
