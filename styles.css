@@ -149,14 +149,14 @@
 }
 
 #yourText3 {
-	margin-left: 190px;
+	margin-left: 157px;
 	color: black;
 	font-family: sans-serif;
 
 }
 
 #yourText3:hover {
-	margin-left: 190px;
+	margin-left: 157px;
 	color: black;
 	font-family: sans-serif;
 }
@@ -397,10 +397,11 @@
 	color: black;
 	font-size: 16px;
 }
-.lilist{
-	color:black;
+
+.lilist {
+	color: black;
 	font-size: 16px;
-	
+
 }
 
 .homeimg {
@@ -437,4 +438,8 @@
 	margin: 4px;
 	width: 300px;
 	height: 300px;
+}
+
+#activelink {
+	text-decoration: underline;
 }
