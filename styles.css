@@ -1,4 +1,3 @@
-
 #logo {
 
 	width: 75px;
@@ -44,7 +43,7 @@
 	float: right;
 	width: 100px;
 	height: 25px;
-	color:black;
+	color: black;
 	text-decoration: underline;
 	padding: 10px;
 
@@ -62,6 +61,7 @@
 	float: center;
 
 }
+
 #page-container {
 	position: relative;
 	min-height: 100vh;
@@ -102,6 +102,7 @@
 	font-family: sans-serif;
 
 }
+
 .vertical1 {
 	border-left: 1px solid grey;
 	height: .1rem;
@@ -179,28 +180,32 @@
 	color: black;
 	font-family: sans-serif;
 }
+
 #yourText5 {
 	margin-left: 400px;
 	color: black;
 	font-family: sans-serif;
 
 }
+
 #yourimg {
 	margin-left: 200px;
 	color: black;
 	font-family: sans-serif;
 	float: right;
-	
+
 }
+
 #yourimg:hover {
 	margin-left: 200px;
 	color: black;
 	font-family: sans-serif;
 
-	
+
 }
-#img123{
-	float:right;
+
+#img123 {
+	float: right;
 }
 
 
@@ -322,6 +327,7 @@
 	color: #8D57A5;
 	margin-left: 66px;
 }
+
 .first-box h5 {
 	color: white;
 	margin-left: 10px;
@@ -367,51 +373,68 @@
 	float: top, center;
 
 }
+
 #table {
-	color:white;
-	
+	color: white;
+
 }
 
-#total{
-	color:white;
+#total {
+	color: white;
 	font-family: serif;
 	margin-left: 10px;
-	border-color:purple;
+	border-color: purple;
 }
-#CR{
-	color:white;
-	font-size:12px;
+
+#CR {
+	color: white;
+	font-size: 12px;
 	display: block;
 }
 
 .lilist:hover {
 	text-decoration: underline;
+	color: black;
+	font-size: 16px;
 }
-.homeimg {
-   -webkit-filter: grayscale(100%);
-   -moz-filter: grayscale(100%);
-   filter: grayscale(100%);
-   transition: all 0.5s ease;
-	width:400px;
-	height:400px;
-	color:white;
- }
-
- .homeimg:hover {
-   -webkit-filter: grayscale(0%);
-   -moz-filter: grayscale(0%);
-   filter: grayscale(0%);
-	 width:400px;
-	height:400px;
-	 color:black;
- }
-.img2{
-	color:transparent;
-}
-.img2:hover{
+.lilist{
 	color:black;
+	font-size: 16px;
+	
 }
 
+.homeimg {
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	filter: grayscale(100%);
+	transition: all 0.5s ease;
+	width: 300px;
+	height: 300px;
+	color: white;
+	margin: 4px;
+}
 
+.homeimg:hover {
+	-webkit-filter: grayscale(0%);
+	-moz-filter: grayscale(0%);
+	filter: grayscale(0%);
+	width: 400px;
+	height: 400px;
+	color: black;
+	margin: 4px;
+}
 
+.img2 {
+	color: transparent;
+}
+
+.img2:hover {
+	color: black;
+}
+
+.hidden {
+	opacity: 0%;
+	margin: 4px;
+	width: 300px;
+	height: 300px;
 }
