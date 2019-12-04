@@ -189,23 +189,28 @@
 }
 
 #yourimg {
-	margin-left: 200px;
+	margin-left: 500px;
 	color: black;
 	font-family: sans-serif;
 	float: right;
-
-}
-
-#yourimg:hover {
-	margin-left: 200px;
-	color: black;
-	font-family: sans-serif;
-
+	width:30px;
+	height:30px;
 
 }
 
 #img123 {
 	float: right;
+	width:30px;
+	height:30px;
+	background-color:black;
+	margin:1px;
+	color:black;
+}
+#img123:img {
+	float: right;
+	width:30px;
+	height:30px;
+	background-color:black;
 }
 
 
@@ -442,4 +447,31 @@
 
 #activelink {
 	text-decoration: underline;
+}
+#logo {
+	-webkit-animation: color_change 1s infinite alternate;
+	-moz-animation: color_change 1s infinite alternate;
+	-ms-animation: color_change 1s infinite alternate;
+	-o-animation: color_change 1s infinite alternate;
+	animation: color_change 1s infinite alternate;
+}
+@-webkit-keyframes color_change {
+	from { background-color: blue; }
+	to { background-color: red; }
+}
+@-moz-keyframes color_change {
+	from { background-color: blue; }
+	to { background-color: red; }
+}
+@-ms-keyframes color_change {
+	from { background-color: blue; }
+	to { background-color: red; }
+}
+@-o-keyframes color_change {
+	from { background-color: blue; }
+	to { background-color: red; }
+}
+@keyframes color_change {
+	from { background-color: blue; }
+	to { background-color: red; }
 }
